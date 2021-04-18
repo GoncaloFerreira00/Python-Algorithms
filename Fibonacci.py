@@ -1,7 +1,5 @@
 def func(i):
-    nums  = []
-    nums.append(0)
-    nums.append(1)
+    nums  = [0, 1]
     for x in range(i):
        endlist = nums[-1]
        endendlist = nums[-2] 
